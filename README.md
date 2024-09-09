@@ -1,9 +1,16 @@
-### Hi there 👋
+## Hi there! 👋 My name is Gerald!
 
-- My name is Gerald and I am a CS major at Georgia Tech
-- I am currently learning how to develop software and build AI models
-- Please check my repository for some projects I've been working on!
-- You can reach out to me on LinkedIn.
+🔶 I'm currently a Computer Science student at Georgia Tech, specializing in Intelligence and Information Internetworks. My drive is to constantly push my limits, seek new discoveries, embrace continuous learning, and foster personal growth. Through creating open-source packages, collaborating with startups, and embarking on personal and group projects, I've expanded my perspective and refined my skills in the field of Computer Science.
+
+🌟 My ultimate goal is to keep delving into the vast expanse of Computer Science, embracing challenges and working alongside others to uncover new frontiers. I firmly believe that growth often comes from confronting challenges head-on. To encapsulate this mindset, I'd like to share a quote that resonates deeply with me:
+
+#### 💬 “I can't see a way through," said the boy. "Can you see your next step?" "Yes." "Just take that," said the horse. ####
+
+- Charlie Mackesy, The Boy, the Mole, the Fox and the Horse
+
+🌱 Never be afraid to take the next step!
+
+✉️ If you'd like to connect, feel free to reach out via email at glu49@gatech.edu.
 <!--
 **Gerald-Lu/gerald-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
