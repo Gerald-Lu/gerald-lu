@@ -1,7 +1,3 @@
-<!-- Animated Tech Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Welcome%20🌌&fontSize=40&fontColor=ffffff" />
-</p>
 
 <h1 align="center">Hi there, I'm Gerald 👋</h1>
 
