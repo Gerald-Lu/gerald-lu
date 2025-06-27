@@ -1,27 +1,42 @@
-## Hi there! 👋 My name is Gerald!
+<!-- Animated Tech Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Welcome%20🌌&fontSize=40&fontColor=ffffff" />
+</p>
 
-🔶 I'm currently a Computer Science student at Georgia Tech, specializing in Intelligence and Information Internetworks. My drive is to constantly push my limits, seek new discoveries, embrace continuous learning, and foster personal growth. Through creating open-source packages, collaborating with startups, and embarking on personal and group projects, I've expanded my perspective and refined my skills in the field of Computer Science.
+<h1 align="center">Hi there, I'm Gerald 👋</h1>
 
-🌟 My ultimate goal is to keep delving into the vast expanse of Computer Science, embracing challenges and working alongside others to uncover new frontiers. I firmly believe that growth often comes from confronting challenges head-on. To encapsulate this mindset, I'd like to share a quote that resonates deeply with me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+.+.+.+building+%F0%9F%8C%90;Always+learning+%F0%9F%93%9A+;Open+Source+%2B+Startup+Collaborator+%F0%9F%92%BB;Exploring+AI" alt="Typing SVG" />
+</p>
 
-#### 💬 “I can't see a way through," said the boy. "Can you see your next step?" "Yes." "Just take that," said the horse. ####
+<p align="center">
+  <a href="mailto:glu49@gatech.edu"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gerald-lu/"><img src="https://img.shields.io/badge/LinkedIn-geraldlu-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gerald-lu"><img src="https://img.shields.io/github/followers/gerald-lu?label=Follow&style=for-the-badge"/></a>
+</p>
 
-- Charlie Mackesy, The Boy, the Mole, the Fox and the Horse
+---
 
-🌱 Never be afraid to take the next step!
+### 💡 About Me
 
-✉️ If you'd like to connect, feel free to reach out via email at glu49@gatech.edu.
-<!--
-**Gerald-Lu/gerald-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a **Computer Science student** at **Georgia Tech**, focusing on **Intelligence** and **Information Internetworks**.  
+🛠️ I build open-source tools, contribute to startup engineering, and take on projects that challenge me.  
+💬 I believe real growth starts when you step into the unknown and keep going, one step at a time.
 
-Here are some ideas to get you started:
+> _“I can't see a way through," said the boy._  
+> _"Can you see your next step?"_  
+> _"Yes."_  
+> _"Just take that," said the horse._  
+> — **Charlie Mackesy**, *The Boy, the Mole, the Fox and the Horse*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Reach Out
+
+- 📬 **Email**: glu49@gatech.edu  
+- 💼 **LinkedIn**: [linkedin.com/in/geraldlu](https://linkedin.com/in/gerald-lu)  
+- 🧠 Let’s connect and build something awesome!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
