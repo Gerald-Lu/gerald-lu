@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Gerald 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+.+.+.+building+%F0%9F%8C%90;Always+learning+%F0%9F%93%9A+;Open+Source+%2B+Startup+Collaborator+%F0%9F%92%BB;Exploring+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Building+.+.+.+building+%F0%9F%8C%90;Always+learning+%F0%9F%93%9A+;Open+Source+%2B+Startup+%F0%9F%92%BB;Exploring+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
